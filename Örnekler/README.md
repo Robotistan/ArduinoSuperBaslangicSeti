@@ -12,5 +12,5 @@
 ##### 10 - [Ses ile Motor Kontrolü](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/blob/main/%C3%96rnekler/Ses%20ile%20Motor%20Kontrol%C3%BC/README.md	"Heading Link")
 ##### 11 - [Joystick ile Servo Motor Kontrolü](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Joystick%20ile%20Servo%20Motor%20Kontrol%C3%BC	"Heading Link")
 ##### 12 - [IR Kumanda ile LED Kontrolü](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/IR%20Kontrol%C3%BC%20ile%20LED%20Kontrol%C3%BC "Heading Link")
-##### 13 - [Arduino ile Dijital Metre Yapımı](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Arduino%20Dijital%20Metre%20Yapm%C4%B1 "Heading Link")
+##### 13 - [Arduino ile Dijital Metre Yapımı](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Arduino%20Dijital%20Metre%20Yap%C4%B1m%C4%B1 "Heading Link")
 ##### 14 - [Hareket Sensörü(PIR) ile Servo Motor Kontrolü](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Hareket%20Sens%C3%B6r%C3%BC%20ile%20Servo%20Motor%20Kontrol%C3%BC	"Heading Link")
