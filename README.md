@@ -1,6 +1,6 @@
 # Arduino Süper Başlangıç Seti - Maker Projeleri ile Kullanıma Uygun - Arduino ile Uyumlu 
-![191202503-bb9281c2-10ec-4dcd-9388-a5bf73216449](https://user-images.githubusercontent.com/112697142/193266611-ab69af86-7a8b-4d08-b607-cb94dc138596.jpg)
 
+![Capture](https://user-images.githubusercontent.com/112697142/204262221-833698b8-ebf4-4c90-96cf-8d7dcd2440b2.PNG)
 
 
 
@@ -14,7 +14,7 @@ Artık kendinizi ve arkadaşlarınızı etkileyecek elektronik projeler yapabile
 
 ## Paket İçeriği
 
-- Arduino UNO R3 Klon USB Kablo Hediyeli - (USB Chip CH340)](https://www.robotistan.com/arduino-uno-r3-klon-usb-kablo-hediyeli-usb-chip-ch340 "Heading Link")
+- [Arduino UNO R3 Klon USB Kablo Hediyeli - (USB Chip CH340)](https://www.robotistan.com/arduino-uno-r3-klon-usb-kablo-hediyeli-usb-chip-ch340 "Heading Link")
 - [Büyük Boy Breadboard](https://www.robotistan.com/breadboard-2 "Heading Link")
 - [40 Pin Ayrılabilen Erkek-Erkek M-M Jumper Kablo - 100 mm](https://www.robotistan.com/40-pin-ayrilabilen-erkek-erkek-m-m-jumper-kablo-100-mm "Heading Link")
 - [40 Pin Ayrılabilen Erkek-Erkek M-M Jumper Kablo - 100 mm](https://www.robotistan.com/40-pin-ayrilabilen-erkek-erkek-m-m-jumper-kablo-100-mm "Heading Link")
@@ -49,4 +49,4 @@ Artık kendinizi ve arkadaşlarınızı etkileyecek elektronik projeler yapabile
 - ##### [Dokümanlar](https://github.com/Robotistan/ArduinoSuperStarterKit/tree/main/Documents "Heading link")
 
 ## Not
-If you have any questions, please contact technical support on our [Robotistan Community](https://community.robotistan.com/).Herhangi bir sorunuz olursa, lütfen [Robotistan Topluluğumuzdan](https://forum.robotistan.com/) teknik destek ekibi ile iletişime geçin.
+Herhangi bir sorunuz olursa, lütfen [Robotistan Topluluğumuzdan](https://forum.robotistan.com/) teknik destek ekibi ile iletişime geçin.
