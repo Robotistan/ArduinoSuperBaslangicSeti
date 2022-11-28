@@ -1,5 +1,6 @@
-## Analog Reading and Serial Communication With Arduino Details
-When you look at the Arduino board, you will see the "Analog Input" pins. It is possible to read the voltage on this pin by converting from digital to analog signal using these pins. The Arduino is capable of reading 0V(zero) and 5V digitally. If there are intermediate values between these two extremes, it cannot detect it and accept the incoming voltage as 0V or 5V according to the threshold value. Thanks to analog pins, you can detect intermediate voltage values from 0V to 5V and convert them to digital. You will use a adjustable resistor(potentiometer) to obtain signals at intermediate values. In the application, you will read the numerical value of the voltage coming from the analog input pin on the serial port. 
+## Arduino ile Analog Okuma ve Seri İletişim Detayları
+Arduino kartına baktığınızda "Analog Giriş" pinlerini göreceksiniz. Bu pinler kullanılarak dijital sinyalden analog sinyale dönüştürülerek bu pin üzerindeki voltajın okunması mümkündür. Arduino dijital olarak 0V ve 5V okuyabilir. Bu iki uç arasında ara değerler varsa bunu algılayamaz ve gelen gerilimi eşik değerine göre 0V veya 5V olarak kabul eder. Analog pinler sayesinde 0V ile 5V arası ara gerilim değerlerini tespit edip dijitale çevirebilirsiniz. Ara değerlerde sinyaller elde etmek için ayarlanabilir bir direnç (potansiyometre) kullanacaksınız. Uygulamada seri port üzerindeki analog giriş pininden gelen voltajın sayısal değerini okuyacaksınız.
 
-Let's set up circuit and continue with coding.
+
+Hadi devreyi kuralım ve kodlamaya başlayalım!
 ![6](https://user-images.githubusercontent.com/112697142/190644724-2359220f-709e-430c-b819-509a8e4ba646.PNG)
