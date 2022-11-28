@@ -43,7 +43,7 @@ Artık kendinizi ve arkadaşlarınızı etkileyecek elektronik projeler yapabile
 
 ##### Satın almak için, [buraya](https://shop.robotistan.com/products/electronic-super-starter-kit-suitable-for-maker-projects-and-electronics-compatible-with-arduino-super-starter-pack-for-beginners "Heading Link") tıklayabilirsiniz.
 
-## Repo İçeirği
+## Repo İçeriği
 - ##### [Örnekler](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler "Heading link") 
 - ##### [Kitap](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/Kitap "Heading link")
 - ##### [Dokümanlar](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/Dok%C3%BCmanlar "Heading link")
