@@ -1,10 +1,10 @@
-## Motor Control with Sound
+## Sesile Motor Kontrolü
 
-In this example, you will provide motor movement according to the value read by the sound sensor. The sound sensor provides a digital output by measuring the ambient sound level with a microphone. The sensor circuit amplifies the audio signal received from the microphone and converts the analog audio signal into a digital signal according to the threshold level.
-Since the motor draws excessive current, a motor driver board is used in such circuits. The motor drive powers the motor according to the signal it receives from the Arduino. This way you can safely control the motor without damaging Arduino.
-The threshold value of the sound level can be adjusted with the potentiometer on the sound sensor. This adjustment can be made with the help of a screwdriver
+Bu örnekte ses sensörünün okuduğu değere göre motor hareketini sağlayacaksınız. Ses sensörü, bir mikrofon ile ortam ses seviyesini ölçerek dijital bir çıkış sağlar. Sensör devresi mikrofondan alınan ses sinyalini yükseltir ve eşik seviyesine göre analog ses sinyalini dijital sinyale dönüştürür.
+Motor aşırı akım çektiği için bu tür devrelerde motor sürücü kartı kullanılır. Motor sürücüsü, Arduino'dan aldığı sinyale göre motora güç verir. Bu sayede Arduino'ya zarar vermeden motoru güvenle kontrol edebilirsiniz.
+Ses sensörü üzerinde bulunan potansiyometre ile ses seviyesinin eşik değeri ayarlanabilmektedir. Bu ayar tornavida yardımı ile yapılabilir.
 
 
-Let's set up the circuit and then start writing our project code.
+Devreyi kuralım ve ardından proje kodumuzu yazmaya başlayalım.
 
 ![sound](https://user-images.githubusercontent.com/111511331/191266510-b4533044-dbac-4793-a0cc-18a97d8194fe.png)
