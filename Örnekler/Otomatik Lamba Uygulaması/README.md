@@ -1,4 +1,5 @@
-## Automatic Lamp Application With LDR Details
-In this application, you will learn to read the data from LDR, which can detect the light in the environment and according to this data, and turn the LED on and off.  LDR(Light Dependent Resistance), i.e photoresistor, changes the resistance according to the amount of light in the environment. This resistance change can be detected by the Arduino board. In this way, since it is possible to know the amount of light in the environment, you can make an automatic lamp by turning on the LED when the environment is dark and turning it off when there is light. You will also send the data to the computer and display it on the serial monitor. Let's start by setting up the circuit.
+## LDR ile Otomatik Lamba Uygulaması
+Bu uygulamada, ortamdaki ışığı algılayabilen ve bu verilere göre LDR'den veri okumayı ve LED'i açıp kapatmayı öğreneceksiniz. LDR(Light Dependent Resistance), yani fotodirenç, ortamdaki ışık miktarına göre direnci değiştirir. Bu direnç değişimi Arduino kartı tarafından tespit edilebilir. Bu sayede ortamdaki ışık miktarını bilmek mümkün olduğu için ortam karanlıkken LED'i yakıp ışık varken söndürerek otomatik lamba yapabilirsiniz. Ayrıca verileri bilgisayara gönderecek ve seri monitörde görüntüleyeceksiniz. Devreyi kurarak başlayalım.
+
 
 ![5](https://user-images.githubusercontent.com/112697142/190638787-151a834b-f1c4-4dd9-b4df-ea6b289e9d8e.PNG)
