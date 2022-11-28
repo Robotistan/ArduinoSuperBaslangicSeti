@@ -6,7 +6,7 @@
 ##### 4 - [Potansiyometre ile LED Yakma](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Potansiyometre%20ile%20LED%20Yakma "Heading Link")	
 ##### 5 - [Arduino ile Knight Rider Uygulaması](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Knight%20Rider%20Uygulamas%C4%B1 "Heading Link")	
 ##### 6 - [LDR ile Otomatik Lamba Uygulaması](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Otomatik%20Lamba%20Uygulamas%C4%B1 "Heading Link")	
-##### 7 - [RGB LED Uygulaması](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/RGB%20LED%20App "Heading Link")
+##### 7 - [RGB LED Uygulaması](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/RGB%20LED%20Uygulamas%C4%B1 "Heading Link")
 ##### 8 - [NTC ile Sıcaklık Ölçümü](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/NTC%20ile%20S%C4%B1cakl%C4%B1k%20%C3%96l%C3%A7%C3%BCm%C3%BC	"Heading Link")
 ##### 9 - [Ultrasonik Sensör ile Park Sensörü Yapma](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Ultrasonik%20Sens%C3%B6r%20ile%20Park%20Sens%C3%B6r%C3%BC%20Yapma	"Heading Link")
 ##### 10 - [Ses ile Motor Kontrolü](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/blob/main/%C3%96rnekler/Ses%20ile%20Motor%20Kontrol%C3%BC/README.md	"Heading Link")
