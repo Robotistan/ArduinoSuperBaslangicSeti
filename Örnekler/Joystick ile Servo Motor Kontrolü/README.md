@@ -1,11 +1,10 @@
-## Servo Motor Control With Joystick
+## Joystick ile Servo Motor Kontrolü
 
-The joystick outputs position as an analog signal depending on whether the lever is moved forward-backward or right-left.
-The servo is a motor that positions itself at an angle according to the signal received from the data pin
+Joystick, kolun ileri-geri veya sağa-sola hareket ettirilmesine bağlı olarak konumu analog bir sinyal olarak verir. Servo, veri pininden aldığı sinyale göre kendisini belli bir açıda konumlandıran motordur.
 
-When the lever on the joystick is moved back and forth, the voltage values on the VRX pin change and the voltage values on the VRY pin changes when it is moved to the right or left. When you click on the joystick, the SW pin gives SV output. in this example, the VRX pin will be used as we will only use one servo. Since the data from the VRX pin is analogue data between O and SV, connect it to the AO pin on Arduino. Connect the data pin of servo motor to pin 3 which can give analog output. The sample code allows the servo motor to rotate between O and 180 degrees with the data from the joystick.
+Joystick üzerindeki levye ileri geri hareket ettirildiğinde VRX pini üzerindeki gerilim değerleri, sağa veya sola hareket ettirildiğinde VRY pini üzerindeki gerilim değerleri değişir. Joystick'e tıkladığınızda SW pini SV çıkışı verir. Bu örnekte sadece bir servo kullanacağımız için VRX pini kullanılacaktır. VRX pininden gelen veri O ve SV arasındaki analog veri olduğundan Arduino üzerindeki AO pinine bağlayınız. Servo motorun veri pinini analog çıkış verebilen pin 3'e bağlayın. Örnek kod, servo motorun joystick'ten gelen verilerle O ve 180 derece arasında dönmesini sağlar.
 
-After setting up the circuit, let's continue with coding.
+Devreyi kurduktan sonra kodlamaya devam edelim.
 
 
 ![11](https://user-images.githubusercontent.com/111511331/191002111-f385b562-31b7-4b01-98b1-1884961be0ae.png)
