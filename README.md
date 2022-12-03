@@ -41,7 +41,7 @@ Artık kendinizi ve arkadaşlarınızı etkileyecek elektronik projeler yapabile
 - [SG90 RC Mini (9gr) Servo Motor](https://www.robotistan.com/tower-pro-sg90-rc-mini-servo-motor "Heading Link")
 
 
-##### Satın almak için, [buraya](https://shop.robotistan.com/products/electronic-super-starter-kit-suitable-for-maker-projects-and-electronics-compatible-with-arduino-super-starter-pack-for-beginners "Heading Link") tıklayabilirsiniz.
+##### Satın almak için, [buraya](https://www.robotistan.com/arduino-super-baslangic-seti-rev3-klon "Heading Link") tıklayabilirsiniz.
 
 ## Repo İçeriği
 - ##### [Örnekler](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler "Heading link") 
