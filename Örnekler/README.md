@@ -1,4 +1,4 @@
-## Activities From Easy To Difficult
+## Kolaydan Zora Projeler
 
 ##### 1 - [LED Yakma](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/LED%20Yakma "Heading Link")
 ##### 2 - [Buton ile LED Yakma](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Buton%20ile%20LED%20Yakma "Heading Link")
