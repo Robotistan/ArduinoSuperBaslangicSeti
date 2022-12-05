@@ -66,3 +66,4 @@ Bir Arduino kartı satın aldığınızda ekstradan bir donanım kullanmadan yap
 
 - Herhangi bir sorunuz olursa, lütfen [Robotistan Topluluğumuzdan](https://forum.robotistan.com/) teknik destek ekibi ile iletişime geçin.
 - 9 V DC Motor görseldekinden farklı olarak kabloları lehimsiz olarak gönderilir.
+- Set içeriğinde yer alan 9V pil ve Breadboard ürünü stok durumuna göre görselden farklılık gösterebilir. Sağ ve solda yer alan power (güç) hatları tek ya da çift olabilir. Kullanım açısından herhangi bir sorun teşkil etmemektedir.
